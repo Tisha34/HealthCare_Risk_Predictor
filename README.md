@@ -14,14 +14,18 @@ Applied Feature Engineering and Feature Scaling techniques
 
 Built and trained ML classification models including Random Forest, Logistic Regression, Decision Tree, KNN, and Gaussian Naive Bayes
 
-Evaluated models using Accuracy, Precision, Recall, F1 Score, and Confusion Matrix
+Evaluated Models using metrics
 
-Determined the best-performing model with highest recall score.
+Performed Model Comparison
+
+Determined the best-performing model .
 
 # Tech Stack
 Python
 
-Pandas
+Pandas, Numpy
+
+Matplotlib, Seaborn
 
 Scikit-learn
 
@@ -30,18 +34,14 @@ Jupyter Notebook
 # Model Evaluation Metrics
 Accuracy Score
 
-Classification Report
-
 Recall Score
 
-# Results & Business Impact
-1.Achieved 94% accuracy and 96.2% recall score using Random Forest Classifier, making it the best-performing model for health risk classification.
+# Results & Insights:
+1.Achieved 94.0% Accuracy and 96.2% Recall Score using Random Forest Classifier, making it the best-performing model for health risk classification.
 
-2.Identified BMI, Glucose Level, Blood Pressure, Stress Level, and Medical History as the most influential factors affecting health risk prediction.
+2.Correlation heatmap analysis revealed that BMI (+0.414) had the strongest positive influence on health risk prediction, while Blood Pressure (-0.380), Cholesterol (-0.324), and Age (-0.191) showed strong negative correlation with the target variable.
 
-3.EDA and model training revealed that unhealthy lifestyle habits such as high stress, smoking, and low physical activity significantly increased health risk probability.
+3.Automated health risk prediction can help NovaGen Research Labs improve participant screening, population stratification, and risk-based medical analysis.
 
-4.Automated health risk prediction can help NovaGen Research Labs improve participant screening, population stratification, and risk-based medical analysis.
-
-5.The ML model enables faster, data-driven, and unbiased healthcare decisions, supporting better preventive healthcare research and clinical study planning.
+4.The ML model enables faster, data-driven, and unbiased healthcare decisions, supporting better preventive healthcare research and clinical study planning.
 
