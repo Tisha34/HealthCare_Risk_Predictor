@@ -49,3 +49,6 @@ Recall Score
 
 4.The ML model enables faster, data-driven, and unbiased healthcare decisions, supporting better preventive healthcare research and clinical study planning.
 
+<img width="1009" height="875" alt="Screenshot 2026-05-20 131244" src="https://github.com/user-attachments/assets/7d7dfc6f-448d-4277-af44-74aff357fd14" />
+
+
