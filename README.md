@@ -20,6 +20,8 @@ Performed Model Comparison
 
 Determined the best-performing model .
 
+Built an app for Health Risk Prediction.
+
 # Tech Stack
 Python
 
@@ -28,6 +30,8 @@ Pandas, Numpy
 Matplotlib, Seaborn
 
 Scikit-learn
+
+Streamlit
 
 Jupyter Notebook
 
